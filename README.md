@@ -9,6 +9,8 @@ It has 3 categories:
 2. My ventures & life story
 3. My info/how to contact me
 
+UPDATE: It's now split into categories like static and so on and it's still about me, but it's advanced now!
+
 # What I want to get out of this
 
 My hope for this project is to learn what's underneath the web and what a technical person actually does
